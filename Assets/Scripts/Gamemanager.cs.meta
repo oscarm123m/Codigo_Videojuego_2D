@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37353bb46915f8f4da39182b99adb293
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fondo: {instanceID: 0}
+  - calabera: {fileID: 5633493834646017670, guid: 1fa454816f08cbc46b3e91dd3a01533e, type: 3}
+  - menuInicio: {instanceID: 0}
+  - menuGameOver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
